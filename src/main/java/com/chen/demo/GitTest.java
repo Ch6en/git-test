@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello world git-3");
         System.out.println("hello world git-4");
         System.out.println("push commit 666");
+        System.out.println("pull...git");
     }
 }
