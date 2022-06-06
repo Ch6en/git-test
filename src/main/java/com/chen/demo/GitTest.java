@@ -6,6 +6,6 @@ public class GitTest {
         System.out.println("hello world git-2");
         System.out.println("hello world git-3");
         System.out.println("hello world git-4");
-        System.out.println("push commit");
+        System.out.println("push commit 666");
     }
 }
